@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #25b79f;
+  background-color: blue;
   height: 100vh;
 }
 
@@ -46,7 +46,7 @@ header {
 }
 
 .menu-items a {
-  text-decoration: none;
+  text-decoration: bold;
   color: #f0f0e6;
   font-size: 1.2rem;
   padding: 0.3rem;
